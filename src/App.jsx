@@ -4,9 +4,9 @@ import {
           Routes,
           Route,
         } from "react-router-dom"; 
-import Home from './pages/home';
-import Contact from './pages/contact';
-import Projects from './pages/projects';
+import Home from './content/home';
+import Contact from './content/contact';
+import Projects from './content/projects';
 import AppLayout from './layouts/appLayout';
 
 

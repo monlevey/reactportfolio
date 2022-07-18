@@ -1,0 +1,25 @@
+[{
+    "Url":"https://desolate-brook-03478.herokuapp.com/",
+    "Repository":"https://github.com/bernardjbs/Medic-Manager",
+    "imgUrl":"./images/MEDIC-MANAGER.gif",
+    "ProjectName":"Medic Manager",
+    "ProjectDescription":"Medic Manager- An app that enables the user to add, update and delete their stored medications, track expiry dates, and be reminded by email when to replace them. Created collaboratively by Dave, Bernard, ChiChi and Monique.",
+    "Technology":"Node, Express, Restful API, Handlebars Js, MySQL + Sequelize, Emailer, Chatbot, MVC, Authentication, Heroku deployment, Javascript,HTML,CSS"
+},
+{
+    "Url":"https://samw1s3.github.io/group_project1/",
+    "Repository":"https://samw1s3.github.io/group_project1/",
+    "imgUrl":"./images/Awkward-Turtle-Moments.gif",
+    "ProjectName":"Awkward Turtle Moments",
+    "ProjectDescription":"Awkward Turtle Moments - An app that generates a range of conversation starters to help our users avoid awkward moments, when on dates. Created collaboratively by Sam, Marc, Kirsten and Monique.",
+    "Technology":"Restful API, Javascript, CSS, HTML"
+},
+{
+    "Url":"https://monlevey.github.io/QuizGame/",
+    "Repository":"https://github.com/monlevey/QuizGame",
+    "imgUrl":"./images/Coding-Quiz.gif",
+    "ProjectName":"Quiz Game",
+    "ProjectDescription":"Quiz Game - A game that tests your coding knowledge, in a fast paced multiple choice quiz, that allows you to save your highscores.",
+    "Technology":"Javascript, CSS, HTML"
+}
+]
