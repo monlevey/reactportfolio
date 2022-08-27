@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./css/contact.module.css";
+import "../components/css/contact.css";
 import emailjs from "emailjs-com";
 
 export default function ContactMe() {

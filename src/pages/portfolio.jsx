@@ -1,10 +1,10 @@
 import React from "react";
 //importing data from project.json
-import ProjectData from "../data/projectdata.json";
-import Project from "../Project";
+import ProjectData from "../components/data/projectdata.json";
+import Project from "./projectitems.jsx";
+import "../components/css/portfolio.css";
 
-import "./css/projects.module.css";
-export default function PortFolio() {
+export default function Portfolio() {
   return (
     <div className="ProjectItem">
       {/* generate project component for each item in projectData array */}

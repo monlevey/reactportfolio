@@ -4,23 +4,25 @@ import {
           Routes,
           Route,
         } from "react-router-dom"; 
-import Home from './content/home';
-import Contact from './content/contact';
-import Projects from './content/projects';
-import AppLayout from './layouts/appLayout';
+import Home from './pages/about';
+import Contact from './pages/contact';
+import Portfolio from './pages/portfolio';
+import Header from './layouts/header';
+import Footer from './layouts/footer';
+;
 
 
 function App() {
   return (
     <div>
     <BrowserRouter>
-    <AppLayout>
+    <Header />
       <Routes>
         <Route path="/" element={<Home/>} />
         <Route path="/contact" element={<Contact/>} />
-        <Route path="/projects" element={<Projects/>} />
+        <Route path="/portfolio" element={<Portfolio/>} />
       </Routes>
-    </AppLayout>
+    <Footer />
     </BrowserRouter>
   </div>
   );
