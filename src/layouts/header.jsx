@@ -3,10 +3,13 @@ import { Link } from 'react-router-dom'
 import '../components/css/header.css';
 //importing the navbar 
 import Navbar from './navbar';
+// import the profile image
 function Header(){
   return (
     <header className='header'>  
       Mon Levey
+      <div className="mobilelogo">
+        </div>
       <Navbar></Navbar>
     </header>
   )

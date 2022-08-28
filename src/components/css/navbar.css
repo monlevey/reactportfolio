@@ -21,8 +21,9 @@
   }
   /* Change the link color to #111 (black) on hover */
   .navbar li a:hover {
-    background-color: rgb(117, 166, 180);
+    background-color: rgba(167, 234, 252, 0.696);
     box-shadow: 3px 3px 3px rgba(10, 13, 14, 0.312);
+    color:rgb(77, 24, 127);
   }
   .nav-active
   {
