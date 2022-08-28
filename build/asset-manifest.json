@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.cd2dab31.css",
+    "main.js": "/reactportfolio/static/js/main.fa95c74a.js",
+    "static/js/787.e29dc422.chunk.js": "/reactportfolio/static/js/787.e29dc422.chunk.js",
+    "static/media/MEDIC-MANAGER.gif": "/reactportfolio/static/media/MEDIC-MANAGER.d5f9f396a105e8cd8eb8.gif",
+    "static/media/PasswordGenerator.gif": "/reactportfolio/static/media/PasswordGenerator.8b4d1968ff917d9fe842.gif",
+    "static/media/Awkward-Turtle-Moments.gif": "/reactportfolio/static/media/Awkward-Turtle-Moments.600d176d7dbf910eb9cd.gif",
+    "static/media/Coding-Quiz.gif": "/reactportfolio/static/media/Coding-Quiz.e561fbfd104daaf7ca03.gif",
+    "static/media/WalkingToMyWedding.jpg": "/reactportfolio/static/media/WalkingToMyWedding.f88040c60ab43d2a778e.jpg",
+    "static/media/rainbowbricks.jpg": "/reactportfolio/static/media/rainbowbricks.f72013b9276b3ab8448b.jpg",
+    "static/media/Horiseon-website-demo.png": "/reactportfolio/static/media/Horiseon-website-demo.d1cf5ef721283a727c4f.png",
+    "static/media/Watch-This-Space.jpg": "/reactportfolio/static/media/Watch-This-Space.4162e55989972b642f40.jpg",
+    "static/media/Profile-Mon.jpg": "/reactportfolio/static/media/Profile-Mon.26b8c89af66ce5174c39.jpg",
+    "static/media/MoniqueLeveyResume.pdf": "/reactportfolio/static/media/MoniqueLeveyResume.cd00664818e451de79c7.pdf",
+    "static/media/monleveylogo.png": "/reactportfolio/static/media/monleveylogo.97667ca27ca6becca8af.png",
+    "index.html": "/reactportfolio/index.html",
+    "main.cd2dab31.css.map": "/reactportfolio/static/css/main.cd2dab31.css.map",
+    "main.fa95c74a.js.map": "/reactportfolio/static/js/main.fa95c74a.js.map",
+    "787.e29dc422.chunk.js.map": "/reactportfolio/static/js/787.e29dc422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd2dab31.css",
+    "static/js/main.fa95c74a.js"
+  ]
+}
