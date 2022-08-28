@@ -88,7 +88,10 @@ export default function ContactMe() {
   };
   return (
     <div>
-      <h1>Contact Me</h1>
+      <section className="portfolio">
+      <h2>Contact Me</h2>
+      <p> Send me a message if you would like to get in touch...</p>
+    </section>
       <form onSubmit={handleFormSubmit} method="POST">
         <div className="form-group">
           <label>Name</label>
