@@ -6,12 +6,18 @@ import Navbar from './navbar';
 // import the profile image
 function Header(){
   return (
-    <header className='header'>  
-      Mon Levey
-      <div className="mobilelogo">
+    <div className='header'>  
+      <div className='mobilelogo'>
+        <img
+          className="mobileonly tabletsize"
+          src={require(`../components/images/monleveylogo.png`)}
+          alt="Mon Levey Logo"
+        />
         </div>
-      <Navbar></Navbar>
-    </header>
+      <span><Navbar></Navbar> 
+      </span>
+     
+    </div>
   )
 }
 
