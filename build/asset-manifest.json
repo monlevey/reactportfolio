@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactportfolio/static/css/main.cd2dab31.css",
+    "main.css": "/reactportfolio/static/css/main.479ed582.css",
     "main.js": "/reactportfolio/static/js/main.fa95c74a.js",
     "static/js/787.e29dc422.chunk.js": "/reactportfolio/static/js/787.e29dc422.chunk.js",
     "static/media/MEDIC-MANAGER.gif": "/reactportfolio/static/media/MEDIC-MANAGER.d5f9f396a105e8cd8eb8.gif",
@@ -15,12 +15,12 @@
     "static/media/MoniqueLeveyResume.pdf": "/reactportfolio/static/media/MoniqueLeveyResume.cd00664818e451de79c7.pdf",
     "static/media/monleveylogo.png": "/reactportfolio/static/media/monleveylogo.97667ca27ca6becca8af.png",
     "index.html": "/reactportfolio/index.html",
-    "main.cd2dab31.css.map": "/reactportfolio/static/css/main.cd2dab31.css.map",
+    "main.479ed582.css.map": "/reactportfolio/static/css/main.479ed582.css.map",
     "main.fa95c74a.js.map": "/reactportfolio/static/js/main.fa95c74a.js.map",
     "787.e29dc422.chunk.js.map": "/reactportfolio/static/js/787.e29dc422.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd2dab31.css",
+    "static/css/main.479ed582.css",
     "static/js/main.fa95c74a.js"
   ]
 }
