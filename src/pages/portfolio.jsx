@@ -7,6 +7,7 @@ export default function Portfolio() {
       <section className="portfolio">
       <h2>Portfolio</h2>
       <p> I am working on lots of coding projects. Many of them will be featured here for you to explore!</p>
+      <p>Click the images to visit functioning applications or the text to be taken to the code.</p>
     </section>
       
 

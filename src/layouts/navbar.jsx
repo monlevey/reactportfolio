@@ -8,10 +8,6 @@ export default function Navbar() {
           src={require(`../components/images/monleveylogo.png`)}
           alt="Mon Levey Logo" className="headlogo desktoponly"/>
         <li className='navbar'>
-        <span></span>
-          <Link to='/contact' className='nav-link'>
-             Contact
-          </Link>
           <span></span>
           <Link to='/portfolio' className='nav-link'>
             Portfolio
@@ -24,6 +20,10 @@ export default function Navbar() {
           <Link to='/resume' className='nav-link'>
             Resume
          </Link>
+         <span></span>
+          <Link to='/contact' className='nav-link'>
+             Contact
+          </Link>
         </li>
       
     </ul>
